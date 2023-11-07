@@ -1,0 +1,20 @@
+*{
+   text-align: center;
+   font-size: 105%;
+}
+body{
+    background-color: orange;
+}
+input{
+display: block;
+
+}
+article
+{
+    background-color: white;
+   width: 400px;
+   border: 1px solid gray;
+   padding: 10px;
+border-radius: 20;
+margin: 0 auto;
+}
